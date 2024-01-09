@@ -7,7 +7,9 @@ Welcome to Flutter130! This is a curated collection of 130 diverse Flutter proje
 Click on the project name to view the project:
 
 <a href="https://github.com/jesusrp98/spacex-go">1. spacex-go</a>
+
 <a href="https://github.com/gumbarros/DevToysFlutter">2. DevToysFlutter</a>
+
 <a href="https://github.com/JohnKinyanjui/Noty">3. Noty</a>
 <a href="https://github.com/AmineLAHRIM/coffee_app">4. coffee_app</a>
 <a href="https://github.com/HarshCasper/HelpingHand">5. HelpingHand</a>
