@@ -3,8 +3,8 @@
 ## Introduction
 Welcome to Flutter130! This is a curated collection of 130 diverse Flutter projects. These projects are designed to provide a comprehensive overview of Flutter capabilities for both new and experienced developers.
 
-## Projects
-Here are some of the projects included in this repository. Click on the project name to view the project:
+## Projects:
+Click on the project name to view the project:
 
 1. SpaceX GO!
 2. DevToys
