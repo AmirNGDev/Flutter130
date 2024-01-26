@@ -35,12 +35,20 @@ Click on the project name to view the project:
 ---
 
 <a href="https://github.com/brianrobles204/Elements-App">6. Elements-App</a>
+![screencast](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/aa6118d3-5b2f-48f4-b98b-626dbedc2489)
+
 
 <a href="https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard">7. Flutter-Responsive-Admin-Panel-or-Dashboard</a>
+![ui](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/4548d7e9-3541-4596-9abe-7b4e64cede37)
+
 
 <a href="https://github.com/revanced/revanced-manager">8. revanced-manager</a>
 
+--
+
 <a href="https://github.com/niuhuan/pikapika">9. pikapika</a>
+
+![Screenshot 2024-01-26 150325](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/767e6dea-c1d9-4a25-b8a7-fa28bfe84f7f)
 
 <a href="https://github.com/gskinnerTeam/flutter-wonderous-app">10. flutter-wonderous-app</a>
 
