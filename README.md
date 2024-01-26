@@ -52,7 +52,7 @@ Click on the project name to view the project:
 |<a href="https://github.com/martinoyovo/flutter-airline-app">41. flutter-airline-app</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/bb4be8a8-6fff-451d-847c-e7c6bc36f403" width="700">|
 |<a href="https://github.com/AlexVitalik/lime">42. lime</a>|No Image|
 |<a href="https://github.com/AhmedLSayed9/deliverzler">43. deliverzler</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/8f77a6b2-75ce-4471-b33a-101b1ae0769f" width="700">|
-|<a href="https://github.com/muhammadtalhasultan/Sirat-E-Mustaqeem">44. Sirat-E-Mustaqeem</a>|<img src=https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/f40bff12-1932-4612-b36b-26a64192cd2f"" width="700">|
+|<a href="https://github.com/muhammadtalhasultan/Sirat-E-Mustaqeem">44. Sirat-E-Mustaqeem</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/f40bff12-1932-4612-b36b-26a64192cd2f" width="700">|
 |<a href="https://github.com/mj-hd/dashboy">45. dashboy</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/52ee5fc4-81f3-4d0e-abd3-6fa2c0a66d2e" width="700">|
 |<a href="https://github.com/elias8/last_fm">46. last_fm</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/098a3277-61b8-41f7-8a0b-d9d553c5a4cd" width="700">|
 |<a href="https://github.com/Kennygunderman/snack_chat">47. snack_chat</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/dace5cfb-432c-44e5-89b9-31dc603e9988" width="700">|
@@ -81,13 +81,13 @@ Click on the project name to view the project:
 |<a href="https://github.com/Ansh-Rathod/Flutter-Bloc-MovieDB-App">70. Flutter-Bloc-MovieDB-App</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/d070749d-6113-4096-b5d3-4a7e47427bd2" width="700">|
 |<a href="https://github.com/mohammedhashim44/Flutter-Grocery-App-UI">71. Flutter-Grocery-App-UI</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/e75c8306-0229-4042-9d2f-a03210e7d780" width="700">|
 |<a href="https://github.com/funwithflutter/google-docs-clone-flutter">72. google-docs-clone-flutter</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/ecabca99-77f4-434b-8358-79cc66aae5bf" width="700">|
-|<a href="https://github.com/Mazahir26/koduko">73. koduko</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/b3b9e631-1858-4c5a-a9ee-134caaa20da6" width="700">|
+|<a href="https://github.com/Mazahir26/koduko">73. koduko</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/b3b9e631-1858-4c5a-a9ee-134caaa20da6" width="500">|
 |<a href="https://github.com/mirea-ninja/rtu-mirea-mobile">74. rtu-mirea-mobile</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/6a31d631-91d3-421f-b372-aca273ea4a24" width="700">|
 |<a href="https://github.com/olayemii/crypto-dashboard">75. crypto-dashboard</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/54fa6e22-f524-4401-845a-835149eccd2b" width="700">|
 |<a href="https://github.com/ym6745476/devilf">76. devilf</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/e2f59e18-5313-4033-befa-dbdcd8666866" width="700">|
 |<a href="https://github.com/perpetio/clubhouse">77. clubhouse</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/78b1976d-5737-46b8-8ae9-9bc291b76671" width="300">|
 |<a href="https://github.com/Ansh-Rathod/Flutter-Musive-app">78. Flutter-Musive-app</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/43391d79-fca2-45d9-89bf-73bb674f9bf3" width="700">|
-|<a href="https://github.com/Shadow60539/bounce_game">79. bounce_game</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/d26babab-0d4a-4649-a2c4-354d899c78ec" width="700">|
+|<a href="https://github.com/Shadow60539/bounce_game">79. bounce_game</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/d26babab-0d4a-4649-a2c4-354d899c78ec" width="500">|
 |<a href="https://github.com/iahmadamin/task_management">80. task_management</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/1309dbd4-056d-4ca9-aa25-53a70130fe11" width="700">|
 |<a href="https://github.com/rrafush/weather_app">81. weather_app</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/436d4328-dc27-4a35-9545-6547d4f04dec" width="700">|
 |<a href="https://github.com/ArizArmeidi/FlutterWeather">82. FlutterWeather</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/845a3ae6-b8ad-44b4-a232-63f3174d59ce" width="700">|
@@ -113,7 +113,7 @@ Click on the project name to view the project:
 |<a href="https://github.com/Clon1998/mobileraker">102. mobileraker</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/16d34fa3-fd45-475d-80b2-9435cd188a39" width="700">|
 |<a href="https://github.com/cybercying/coffee_coupon_full_system_demo">103. coffee_coupon_full_system_demo</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/eef8087c-67c6-4d0a-818a-edcda0033787" width="700">|
 |<a href="https://github.com/flutter/io_flip">104. io_flip</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/9a75dfed-93f8-4189-944d-acea15511b20" width="700">|
-|<a href="https://github.com/archethic-foundation/archethic-wallet">105. archethic-wallet</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/a9f991d6-23b2-46fc-ad46-7cb3770f9bb1" width="700">|
+|<a href="https://github.com/archethic-foundation/archethic-wallet">105. archethic-wallet</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/a9f991d6-23b2-46fc-ad46-7cb3770f9bb1" width="300">|
 |<a href="https://github.com/Avadhkumar-geek/StudentAI">106. StudentAI</a>|No Image|
 |<a href="https://github.com/animator/brain_punk">107. brain_punk</a>|No Image|
 |<a href="https://github.com/hungps/flutter_pokedex">108. flutter_pokedex</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/de5cf2c0-4286-4196-8acf-3c6ad16b104e" width="700">|
@@ -134,11 +134,11 @@ Click on the project name to view the project:
 |<a href="https://github.com/flutter/super_dash">123. super_dash</a>|No Image|
 |<a href="https://github.com/hiddify/hiddify-next">124. hiddify-next</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/5ec1a5f5-5c78-4307-ae2a-eef646e65b62" width="700">|
 |<a href="https://github.com/niuhuan/wax">125. wax</a>|No Image|
-|<a href="https://github.com/GopeedLab/gopeed">126. gopeed</a>|<img src="https://github.com/GopeedLab/gopeed" width="700">|
+|<a href="https://github.com/GopeedLab/gopeed">126. gopeed</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/9f8d3206-3d6c-4aba-8372-8349ad90d0ee" width="700">|
 |<a href="https://github.com/kodjodevf/mangayomi">127. mangayomi</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/0b23b4e0-82e7-4242-8149-3a6913cfb28c" width="700">|
 |<a href="https://github.com/mylxsw/aidea">128. aidea</a>|No Image|
 |<a href="https://github.com/niuhuan/daisy">129. daisy</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/9ffc2418-09c3-410e-ba0a-b7826e873703" width="700">|
 |<a href="https://github.com/Notsfsssf/pixez-flutter">130. pixez-flutter</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/9e7e76a9-70bb-4e0f-a871-d86e6240884b" width="700">|
 
 
-Thank you for visiting this repository. We hope you find these projects useful and inspiring!
+## Thank you for visiting this repository. We hope you find these projects useful and inspiring!
