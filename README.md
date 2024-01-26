@@ -39,7 +39,8 @@ Click on the project name to view the project:
 
 
 <a href="https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard">7. Flutter-Responsive-Admin-Panel-or-Dashboard</a>
-<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/4548d7e9-3541-4596-9abe-7b4e64cede37" width="500">
+
+<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/4548d7e9-3541-4596-9abe-7b4e64cede37" width="700">
 
 
 <a href="https://github.com/revanced/revanced-manager">8. revanced-manager</a>
