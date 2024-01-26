@@ -14,7 +14,7 @@ Click on the project name to view the project:
 |<a href="https://github.com/JohnKinyanjui/Noty">3. Noty</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/043d5333-2d6d-497b-aef9-e204601e4bd5" width="700">|
 |<a href="https://github.com/AmineLAHRIM/coffee_app">4. coffee_app</a>|No Image|
 |<a href="https://github.com/HarshCasper/HelpingHand">5. HelpingHand</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/3b39994f-28d0-4551-b358-38904eb9d9cf" width="700">|
-|<a href="https://github.com/brianrobles204/Elements-App">6. Elements-App</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/aa6118d3-5b2f-48f4-b98b-626dbedc2489" width="400">|
+|<a href="https://github.com/brianrobles204/Elements-App">6. Elements-App</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/aa6118d3-5b2f-48f4-b98b-626dbedc2489" width="350">|
 |<a href="https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard">7. Flutter-Responsive-Admin-Panel-or-Dashboard</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/4548d7e9-3541-4596-9abe-7b4e64cede37" width="700">|
 |<a href="https://github.com/revanced/revanced-manager">8. revanced-manager</a>|No Image|
 |<a href="https://github.com/niuhuan/pikapika">9. pikapika</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/767e6dea-c1d9-4a25-b8a7-fa28bfe84f7f" width="700">|
@@ -92,7 +92,7 @@ Click on the project name to view the project:
 |<a href="https://github.com/rrafush/weather_app">81. weather_app</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/436d4328-dc27-4a35-9545-6547d4f04dec" width="700">|
 |<a href="https://github.com/ArizArmeidi/FlutterWeather">82. FlutterWeather</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/845a3ae6-b8ad-44b4-a232-63f3174d59ce" width="700">|
 |<a href="https://github.com/SatyamX64/space_empires">83. space_empires</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/ba8089f7-c116-4e4b-93bd-a69b29fabf57" width="700">|
-|<a href="https://github.com/Akashdu/FlutterQuizzApp">84. FlutterQuizzApp</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/adaa8ed7-06f8-4079-a7d2-2e1f76049f0e" width="700">|
+|<a href="https://github.com/Akashdu/FlutterQuizzApp">84. FlutterQuizzApp</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/adaa8ed7-06f8-4079-a7d2-2e1f76049f0e" width="350">|
 |<a href="https://github.com/retroportalstudio/flutter_jardinains">85. flutter_jardinains</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/0ab04da5-cb5e-40c2-918d-7bf88ef200cd" width="700">|
 |<a href="https://github.com/31Carlton7/elisha">86. elisha</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/0158fc0e-86d0-4dce-a3b1-9842a6a3863c)" width="700">|
 |<a href="https://github.com/Karanjot-singh/microsoft_teams_clone">87. microsoft_teams_clone</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/92ddba33-a30f-4e14-92bd-bed66c022124" width="700">|
@@ -109,83 +109,36 @@ Click on the project name to view the project:
 |<a href="https://gitlab.com/nfriend/inspiral">98. inspiral</a>|No Image|
 |<a href="https://gitlab.com/wolfenrain/okane">99. okane</a>|No Image|
 |<a href="https://github.com/fluttertools/sidekick">100. sidekick</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/e59d7389-c96b-49e2-abc0-d08ab5433069" width="700">|
-||<img src="" width="700">|
-||<img src="" width="700">|
-||<img src="" width="700">|
-||<img src="" width="700">|
-||<img src="" width="700">|
-||<img src="" width="700">|
-
-
-
-
-
-
-
-
-
-
-<a href="https://github.com/FLopriore/foldie">101. foldie</a>
-
-<a href="https://github.com/Clon1998/mobileraker">102. mobileraker</a>
-
-<a href="https://github.com/cybercying/coffee_coupon_full_system_demo">103. 
-coffee_coupon_full_system_demo</a>
-
-<a href="https://github.com/flutter/io_flip">104. io_flip</a>
-
-<a href="https://github.com/archethic-foundation/archethic-wallet">105. archethic-wallet</a>
-
-<a href="https://github.com/Avadhkumar-geek/StudentAI">106. StudentAI</a>
-
-<a href="https://github.com/animator/brain_punk">107. brain_punk</a>
-
-<a href="https://github.com/hungps/flutter_pokedex">108. flutter_pokedex</a>
-
-<a href="https://github.com/Pr0nE/trip-brain-app">109. trip-brain-app</a>
-
-<a href="https://github.com/TaRun1369/Awashyaak">110. Awashyaak</a>
-
-<a href="https://github.com/doreanbyte/katswiri">111. katswiri</a>
-
-<a href="https://github.com/ashishrawat2911/firekart">112. firekart</a>
-
-<a href="https://github.com/aldrinzigmundv/thirdbank">113. thirdbank</a>
-
-<a href="https://github.com/tranhuudang/diccon_evo">114. diccon_evo</a>
-
-<a href="https://github.com/OmarJ9/movie-finder">115. movie-finder</a>
-
-<a href="https://github.com/jameskokoska/Cashew">116. Cashew</a>
-
-<a href="https://github.com/jashdubal/pomodoro-session">117. pomodoro-session</a>
-
-<a href="https://github.com/renancaraujo/turi">118. turi</a>
-
-<a href="https://github.com/Sangwan5688/BlackHole">119. BlackHole</a>
-
-<a href="https://github.com/invertase/conference-app">120. conference-app</a>
-
-<a href="https://github.com/lyskouski/app-finance">121. app-finance</a>
-
-<a href="https://github.com/JediPixels/keiko_food_reviews">122. keiko_food_reviews</a>
-
-<a href="https://github.com/flutter/super_dash">123. super_dash</a>
-
-<a href="https://github.com/hiddify/hiddify-next">124. hiddify-next</a>
-
-<a href="https://github.com/niuhuan/wax">125. wax</a>
-
-<a href="https://github.com/GopeedLab/gopeed">126. gopeed</a>
-
-<a href="https://github.com/kodjodevf/mangayomi">127. mangayomi</a>
-
-<a href="https://github.com/mylxsw/aidea">128. aidea</a>
-
-<a href="https://github.com/niuhuan/daisy">129. daisy</a>
-
-<a href="https://github.com/Notsfsssf/pixez-flutter">130. pixez-flutter</a>
-
+|<a href="https://github.com/FLopriore/foldie">101. foldie</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/7ec5a13c-9b02-4e48-a318-103ad5ab8ceb" width="700">|
+|<a href="https://github.com/Clon1998/mobileraker">102. mobileraker</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/16d34fa3-fd45-475d-80b2-9435cd188a39" width="700">|
+|<a href="https://github.com/cybercying/coffee_coupon_full_system_demo">103. coffee_coupon_full_system_demo</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/eef8087c-67c6-4d0a-818a-edcda0033787" width="700">|
+|<a href="https://github.com/flutter/io_flip">104. io_flip</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/9a75dfed-93f8-4189-944d-acea15511b20" width="700">|
+|<a href="https://github.com/archethic-foundation/archethic-wallet">105. archethic-wallet</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/a9f991d6-23b2-46fc-ad46-7cb3770f9bb1" width="700">|
+|<a href="https://github.com/Avadhkumar-geek/StudentAI">106. StudentAI</a>|No Image|
+|<a href="https://github.com/animator/brain_punk">107. brain_punk</a>|No Image|
+|<a href="https://github.com/hungps/flutter_pokedex">108. flutter_pokedex</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/de5cf2c0-4286-4196-8acf-3c6ad16b104e" width="700">|
+|<a href="https://github.com/Pr0nE/trip-brain-app">109. trip-brain-app</a>|No Image|
+|<a href="https://github.com/TaRun1369/Awashyaak">110. Awashyaak</a>|No Image|
+|<a href="https://github.com/doreanbyte/katswiri">111. katswiri</a>|No Image|
+|<a href="https://github.com/ashishrawat2911/firekart">112. firekart</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/03749633-f09f-4da8-9532-1546b2398aaa" width="700">|
+|<a href="https://github.com/aldrinzigmundv/thirdbank">113. thirdbank</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/35315d85-5a14-4fc1-8831-a268223efe67" width="700">|
+|<a href="https://github.com/tranhuudang/diccon_evo">114. diccon_evo</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/8f5eae8e-8793-4103-8500-8ca7c94f1a27" width="700">|
+|<a href="https://github.com/OmarJ9/movie-finder">115. movie-finder</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/5f1852ef-3c4c-45c9-99ad-5cbf312b82a8" width="700">|
+|<a href="https://github.com/jameskokoska/Cashew">116. Cashew</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/afbed43c-fe64-4aa6-8e18-8201e7cfc422" width="700">|
+|<a href="https://github.com/jashdubal/pomodoro-session">117. pomodoro-session</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/f794b46c-eccf-4c9e-a31e-92072fb22438" width="700">|
+|<a href="https://github.com/renancaraujo/turi">118. turi</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/66a29134-cac3-411e-9899-f3748a3165d6" width="700">|
+|<a href="https://github.com/Sangwan5688/BlackHole">119. BlackHole</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/acbb0e43-10fe-4819-894d-7c95f55fcd8d" width="700">|
+|<a href="https://github.com/invertase/conference-app">120. conference-app</a>|No Image|
+|<a href="https://github.com/lyskouski/app-finance">121. app-finance</a>|No Image|
+|<a href="https://github.com/JediPixels/keiko_food_reviews">122. keiko_food_reviews</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/7b3edbd0-8d0d-4b0f-ac87-91cab96edcf0" width="700">|
+|<a href="https://github.com/flutter/super_dash">123. super_dash</a>|No Image|
+|<a href="https://github.com/hiddify/hiddify-next">124. hiddify-next</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/5ec1a5f5-5c78-4307-ae2a-eef646e65b62" width="700">|
+|<a href="https://github.com/niuhuan/wax">125. wax</a>|No Image|
+|<a href="https://github.com/GopeedLab/gopeed">126. gopeed</a>|<img src="https://github.com/GopeedLab/gopeed" width="700">|
+|<a href="https://github.com/kodjodevf/mangayomi">127. mangayomi</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/0b23b4e0-82e7-4242-8149-3a6913cfb28c" width="700">|
+|<a href="https://github.com/mylxsw/aidea">128. aidea</a>|No Image|
+|<a href="https://github.com/niuhuan/daisy">129. daisy</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/9ffc2418-09c3-410e-ba0a-b7826e873703" width="700">|
+|<a href="https://github.com/Notsfsssf/pixez-flutter">130. pixez-flutter</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/9e7e76a9-70bb-4e0f-a871-d86e6240884b" width="700">|
 
 
 Thank you for visiting this repository. We hope you find these projects useful and inspiring!
