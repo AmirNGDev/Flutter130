@@ -26,7 +26,7 @@ Click on the project name to view the project:
 |Name| Image |
 |------------|--------|
 |Noty|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/4548d7e9-3541-4596-9abe-7b4e64cede37" width="700">|
-|pikapika|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/767e6dea-c1d9-4a25-b8a7-fa28bfe84f7f" width="700">|
+|<a href="https://github.com/niuhuan/pikapika">9. pikapika</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/767e6dea-c1d9-4a25-b8a7-fa28bfe84f7f" width="700">|
 
 
 <a href="https://github.com/AmineLAHRIM/coffee_app">4. coffee_app</a>
