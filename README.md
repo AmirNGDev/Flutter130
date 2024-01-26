@@ -1,4 +1,4 @@
-# Flutter130
+![114061608-9fcb8980-9864-11eb-8ace-7f0c4cc2d1c8](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/e679dab7-84f2-4bab-8604-a0ecbdd91437)# Flutter130
 
 ## Introduction
 Welcome to Flutter130! This is a curated collection of 130 diverse Flutter projects. These projects are designed to provide a comprehensive overview of Flutter capabilities for both new and experienced developers.
@@ -51,106 +51,184 @@ Click on the project name to view the project:
 ![Screenshot 2024-01-26 150325](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/767e6dea-c1d9-4a25-b8a7-fa28bfe84f7f)
 
 <a href="https://github.com/gskinnerTeam/flutter-wonderous-app">10. flutter-wonderous-app</a>
+![Screenshot 2024-01-26 150437](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/a4bb4336-7efe-4769-bca0-c6657c4ec883)
+
 
 <a href="https://github.com/flutter/pinball">11. pinball</a>
+![readme_header](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/934a7882-7e60-4185-984f-ecb3f400689e)
+
 
 <a href="https://github.com/olmps/memo">12. memo</a>
 
 <a href="https://github.com/mulaRahul/keyviz">13. keyviz</a>
 
+
 <a href="https://github.com/niuhuan/jasmine">14. jasmine</a>
 
+![app_screen](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/d577152f-19e7-45c2-b49f-673bdfac3cee)
+
+
 <a href="https://github.com/biyidev/biyi">15. biyi</a>
+![68747470733a2f2f626979696465762e636f6d2f696d616765732f73637265656e73686f74732f626979695f657874726163745f746578745f66726f6d5f73637265656e5f73656c656374696f6e2e676966](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/76da00ee-6aa7-4943-b36d-3f1afb232681)
+
 
 <a href="https://github.com/flutter/photobooth">16. photobooth</a>
+![header](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/9d2a239e-c999-49bc-b742-4bda96bd40c4)
+
 
 <a href="https://github.com/yang991178/fluent-reader-lite">17. fluent-reader-lite</a>
+![demo](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/4bcb59c7-367b-49dd-b99b-b4daf73b3e1d)
+
 
 <a href="https://github.com/mhmzdev/devfolio">18. devfolio</a>
+![171403671-4e50f0a8-f73c-40f6-8628-547754afc2ef](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/53bc886a-8f10-4950-8e0b-f26bb60331c8)
+
 
 <a href="https://github.com/maxkrieger/voiceliner">19. voiceliner</a>
+![Screenshot 2024-01-26 151030](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/c05a3fb3-229c-456e-ade7-1b42b314b082)
+
 
 <a href="https://github.com/prateekmedia/appimagepool">20. appimagepool</a>
+![home](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/8a649aa8-7821-41cc-951f-ba14e7790902)
+
 
 <a href="https://github.com/CympleTech/ESSE">21. ESSE</a>
+![68747470733a2f2f63796d706c65746563682e636f6d2f696d616765732f657373655f73686f772e676966](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/cc64eeeb-9177-4b40-b726-eca5007023af)
+
 
 <a href="https://github.com/meditohq/medito-app">22. medito-app</a>
 
 <a href="https://github.com/DingMouRen/flutter_tiktok">23. flutter_tiktok</a>
+![gif_6](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/d0a174be-0c3c-4d45-92a9-2ba3eac6d267)
+
 
 <a href="https://github.com/felixblaschke/flutterplasma">24. flutterplasma</a>
 
+
 <a href="https://github.com/deniscolak/smart-admin-dashboard">25. smart-admin-dashboard</a>
+![deniz-codes-sc](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/5b8a5531-7dec-4dce-8230-5277e63564b9)
+
 
 <a href="https://github.com/bostrot/wsl2-distro-manager">26. wsl2-distro-manager</a>
+![233077564-794d15dd-d8d6-48b2-aee6-20e67de3da29](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/6cc0bc5f-7c59-45b7-a7bc-cff801f1056f)
+
 
 <a href="https://github.com/filiph/tictactoe">27. tictactoe</a>
 
+
 <a href="https://github.com/salvadordeveloper/flutter-crypto-app">28. flutter-crypto-app</a>
+![Screenshot 2024-01-26 151630](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/851c0d5f-193e-4916-94fe-b7860482d09f)
+
 
 <a href="https://github.com/dshukertjr/spot">29. spot</a>
+![screenshots](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/5247d812-730f-40b0-a1a0-99491212bb7d)
+
 
 <a href="https://github.com/hamaluik/nomdebebe">30. nomdebebe</a>
+![Screenshot 2024-01-26 151806](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/4dc29186-723f-4639-b40a-40b997c1f991)
+
 
 <a href="https://github.com/gokadzev/Musify">31. Musify</a>
+![Musify-banner](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/17f8a829-c00c-4191-af7d-2cca3f1ce8ff)
+
 
 <a href="https://github.com/arafaysaleem/ez_tickets_app">32. ez_tickets_app</a>
+![Screenshot 2024-01-26 151936](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/370da553-b0a1-4b12-9891-00a1e84998c9)
+
 
 <a href="https://github.com/Roaa94/movies_app">33. movies_app</a>
+![Screenshot 2024-01-26 152014](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/8b016dca-d758-43db-b425-69a8764185a7)
+
 
 <a href="https://github.com/prateekmedia/pstube">34. pstube</a>
+![home-desktop](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/9b4b3f6d-1199-46f1-b0b2-041231b3936b)
+
 
 <a href="https://github.com/freeCodeCamp/mobile">35. mobile</a>
 
+![68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f66726565636f646563616d702f776964652d736f6369616c2d62616e6e65722e706e67](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/20c5fa0c-2db2-4f02-826f-4e600e1e8cae)
+
 <a href="https://github.com/yukino-org/kazahana">36. kazahana</a>
+![gh-kazahana-banner](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/64541108-238b-4170-b1cb-2a74f4273461)
+
 
 <a href="https://github.com/koel/player">37. player</a>
+![126907246-9fa5c3c7-6bf1-4733-b36b-7b35d2db0bf6](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/5b4ce345-8a2b-446a-972c-71bdb642ffba)
+
 
 <a href="https://github.com/merixstudio/flutter-vizier-challenge">38. flutter-vizier-challenge</a>
 
+![68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323034313234392f73637265656e73686f74732f31363233333933302f6d656469612f38343730626161356134623763656638666334643139333231653637626666622e706e673f636f6d70726](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/23128096-6a47-4fff-afdc-294004bf3517)
+
 <a href="https://github.com/david-legend/nimbus">39. nimbus</a>
+![Screenshot 2024-01-26 152427](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/9e530be8-6336-4b88-8f58-75c38266a88d)
+
 
 <a href="https://github.com/chatsen/chatsen">40. chatsen</a>
+![Screenshot 2024-01-26 152530](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/4096cc34-91a5-44ea-a7f3-7e41e516a441)
+
 
 <a href="https://github.com/martinoyovo/flutter-airline-app">41. flutter-airline-app</a>
+![Screenshot 2024-01-26 152613](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/bb4be8a8-6fff-451d-847c-e7c6bc36f403)
+
 
 <a href="https://github.com/AlexVitalik/lime">42. lime</a>
 
 <a href="https://github.com/AhmedLSayed9/deliverzler">43. deliverzler</a>
+![ss_06](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/8f77a6b2-75ce-4471-b33a-101b1ae0769f)
+
 
 <a href="https://github.com/muhammadtalhasultan/Sirat-E-Mustaqeem">44. Sirat-E-Mustaqeem</a>
+![banner](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/f40bff12-1932-4612-b36b-26a64192cd2f)
+
 
 <a href="https://github.com/mj-hd/dashboy">45. dashboy</a>
+![Screenshot 2024-01-26 152838](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/52ee5fc4-81f3-4d0e-abd3-6fa2c0a66d2e)
+
 
 <a href="https://github.com/elias8/last_fm">46. last_fm</a>
+![Screenshot 2024-01-26 153026](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/098a3277-61b8-41f7-8a0b-d9d553c5a4cd)
+
 
 <a href="https://github.com/Kennygunderman/snack_chat">47. snack_chat</a>
+![114061608-9fcb8980-9864-11eb-8ace-7f0c4cc2d1c8](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/dace5cfb-432c-44e5-89b9-31dc603e9988)
+
 
 <a href="https://github.com/Suwayomi/Tachidesk-Sorayomi">48. Tachidesk-Sorayomi</a>
 
 <a href="https://github.com/julienlebren/Boobook">49. Boobook</a>
+![Screenshot 2024-01-26 153057](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/0ce0358b-7692-413a-8216-5a56083dd095)
+
 
 <a href="https://github.com/ImranR98/Obtainium">50. Obtainium</a>
+![Screenshot 2024-01-26 153125](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/d1cc3337-0c2a-4fc6-b0e6-8e2d9d7a0de9)
 
 <a href="https://github.com/31Carlton7/flutter_notes_app">51. flutter_notes_app</a>
+![Screenshot 2024-01-26 153214](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/6b1a6a5e-c07e-467d-bb86-e99bd52e7c4a)
 
 <a href="https://github.com/thingsboard/flutter_thingsboard_app">52. flutter_thingsboard_app</a>
 
 <a href="https://github.com/imSanjaySoni/NoteApp-Clean-Architecture">53. NoteApp-Clean-Architecture</a>
+<img width="650" alt="cover" src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/d1b223df-edff-46fc-874c-18998f741d87">
 
 <a href="https://github.com/telsacoin/telsavideo">54. telsavideo</a>
+![Screenshot 2024-01-26 153350](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/39a32727-32b9-43fa-9ffa-8fb29a3f52dd)
 
 <a href="https://github.com/linagora/tmail-flutter">55. tmail-flutter</a>
+<img width="1134" alt="169979675-85893fa4-325a-426b-a1a8-0751a585954a" src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/b992d882-d6aa-4cd5-a646-34aed9cf086d">
 
 <a href="https://github.com/masterxing/flutter_cloud_music">56. flutter_cloud_music</a>
+![Screenshot 2024-01-26 153510](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/7dac5823-2cd4-4366-99e2-ab99f3995f46)
 
 <a href="https://github.com/e200/flutter-remote">57. flutter-remote</a>
 
 <a href="https://github.com/GreenPassApp/greenpass-app">58. greenpass-app</a>
 
 <a href="https://github.com/koperasi-rlp1/koperasi-mobileApp">59. koperasi-mobileApp</a>
+![Screenshot 2024-01-26 153639](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/873e9498-acee-497b-ba4b-e3f6f85bf04d)
 
 <a href="https://github.com/idootop/watermelon">60. watermelon</a>
+![Uploading Screenshot 2024-01-26 153733.png…]()
 
 <a href="https://github.com/hello-paulvin/city-cab">61. city-cab</a>
 
