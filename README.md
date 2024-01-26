@@ -1,4 +1,4 @@
-![114061608-9fcb8980-9864-11eb-8ace-7f0c4cc2d1c8](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/e679dab7-84f2-4bab-8604-a0ecbdd91437)# Flutter130
+# Flutter130
 
 ## Introduction
 Welcome to Flutter130! This is a curated collection of 130 diverse Flutter projects. These projects are designed to provide a comprehensive overview of Flutter capabilities for both new and experienced developers.
