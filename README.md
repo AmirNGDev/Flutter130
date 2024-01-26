@@ -15,7 +15,7 @@ Click on the project name to view the project:
 |<a href="https://github.com/AmineLAHRIM/coffee_app">4. coffee_app</a>|No Image|
 |<a href="https://github.com/HarshCasper/HelpingHand">5. HelpingHand</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/3b39994f-28d0-4551-b358-38904eb9d9cf" width="700">|
 |<a href="https://github.com/brianrobles204/Elements-App">6. Elements-App</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/aa6118d3-5b2f-48f4-b98b-626dbedc2489" width="350">|
-|<a href="https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard">7. Flutter-Responsive-Admin-Panel-or-Dashboard</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/4548d7e9-3541-4596-9abe-7b4e64cede37" width="700">|
+|<a href="https://github.com/abuanwar072/Flutter-Responsive-Admin-Panel-or-Dashboard">7. Flutter</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/4548d7e9-3541-4596-9abe-7b4e64cede37" width="700">|
 |<a href="https://github.com/revanced/revanced-manager">8. revanced-manager</a>|No Image|
 |<a href="https://github.com/niuhuan/pikapika">9. pikapika</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/767e6dea-c1d9-4a25-b8a7-fa28bfe84f7f" width="700">|
 |<a href="https://github.com/gskinnerTeam/flutter-wonderous-app">10. flutter-wonderous-app</a>|<img src="https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/a4bb4336-7efe-4769-bca0-c6657c4ec883" width="700">|
