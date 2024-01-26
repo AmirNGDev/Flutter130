@@ -23,6 +23,11 @@ Click on the project name to view the project:
 ![Screenshot 2024-01-26 145524](https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/043d5333-2d6d-497b-aef9-e204601e4bd5)
 
 ---
+|Name| Image |
+|------------|--------|
+|Noty|https://github.com/SeyyedAmirNimaGhaebi/Flutter130/assets/124828880/043d5333-2d6d-497b-aef9-e204601e4bd5  |
+
+
 
 <a href="https://github.com/AmineLAHRIM/coffee_app">4. coffee_app</a>
 
