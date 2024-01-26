@@ -31,7 +31,7 @@ Click on the project name to view the project:
 
 <a href="https://github.com/HarshCasper/HelpingHand">5. HelpingHand</a>
 
---
+---
 
 <a href="https://github.com/brianrobles204/Elements-App">6. Elements-App</a>
 
